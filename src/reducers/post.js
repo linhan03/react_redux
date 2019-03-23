@@ -1,4 +1,4 @@
-const title= (state={list:[{title:'time'}]},action={})=>{
+const post= (state={list:[{title:'time'}]}, action={})=>{
     switch (action.type) {
         case  'LOAD_POST':
             return {...state,list:action.payload}
@@ -7,4 +7,4 @@ const title= (state={list:[{title:'time'}]},action={})=>{
     }
 }
 
-export default title;
+export default post;

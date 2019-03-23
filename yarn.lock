@@ -894,9 +894,9 @@
   resolved "http://registry.npm.taobao.org/@svgr/babel-plugin-replace-jsx-attribute-value/download/@svgr/babel-plugin-replace-jsx-attribute-value-4.0.0.tgz#91785643540c2300f3d89e515b37af9b5ce4e695"
   integrity sha1-kXhWQ1QMIwDz2J5RWzevm1zk5pU=
 
-"@svgr/babel-plugin-svg-dynamic-title@^4.0.0":
+"@svgr/babel-plugin-svg-dynamic-post@^4.0.0":
   version "4.0.0"
-  resolved "http://registry.npm.taobao.org/@svgr/babel-plugin-svg-dynamic-title/download/@svgr/babel-plugin-svg-dynamic-title-4.0.0.tgz#eb8d50b80ba0a26f9b27c7268e2a803d90f1bc9e"
+  resolved "http://registry.npm.taobao.org/@svgr/babel-plugin-svg-dynamic-post/download/@svgr/babel-plugin-svg-dynamic-post-4.0.0.tgz#eb8d50b80ba0a26f9b27c7268e2a803d90f1bc9e"
   integrity sha1-641QuAugom+bJ8cmjiqAPZDxvJ4=
 
 "@svgr/babel-plugin-svg-em-dimensions@^4.0.0":
@@ -923,7 +923,7 @@
     "@svgr/babel-plugin-remove-jsx-attribute" "^4.0.3"
     "@svgr/babel-plugin-remove-jsx-empty-expression" "^4.0.0"
     "@svgr/babel-plugin-replace-jsx-attribute-value" "^4.0.0"
-    "@svgr/babel-plugin-svg-dynamic-title" "^4.0.0"
+    "@svgr/babel-plugin-svg-dynamic-post" "^4.0.0"
     "@svgr/babel-plugin-svg-em-dimensions" "^4.0.0"
     "@svgr/babel-plugin-transform-react-native-svg" "^4.0.0"
     "@svgr/babel-plugin-transform-svg-component" "^4.1.0"
